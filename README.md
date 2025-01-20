@@ -3,7 +3,7 @@
 - 🌱 Estudante, tentando ingressar na área
 - 😄 Pronomes: ela/dela
 - 🔭 Ánalise e Desenvolvimento de Sistemas - Estácio
-- 👯 Iniciando estudos nas linguagens: PHP e Python
+- 👯 Iniciando estudos nas linguagens: Java
 - 💬 A procura de novos projetos para práticar
 - ⚡ Sou muito curiosa
 
